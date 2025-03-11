@@ -3,8 +3,6 @@ Name : jagadeesh P
 
 Roll no : 212223230083
 
-Date of experiment :
-
 
 
 
