@@ -100,7 +100,8 @@ ret
 
 
 ## Output 
-![alt text](pmc-ex01,add.png) 
+![add](https://github.com/user-attachments/assets/aee9d94a-768e-41d6-a3ae-5f93914bcbef)
+
  
 ## Subtraction   of 8 bit numbers  ALP 
 
@@ -119,7 +120,8 @@ ret
 
  
 ## Output  
-![alt text](pmc-ex01,sub.png)
+![sub](https://github.com/user-attachments/assets/234cb4bf-fe7c-4383-9e0f-b2c39af0a822)
+
 ## Multiplication alp 
  
 ```
@@ -150,7 +152,8 @@ ret
 
 
  ## Output  
-![alt text](pmc-ex01,mul.png)
+![multi](https://github.com/user-attachments/assets/1e690ebb-5df7-4c35-9220-108ad7f53e86)
+
 
 ## Division alp 
 ```
@@ -164,8 +167,8 @@ div cx
 ret
 ```
 ## Output  
+![div](https://github.com/user-attachments/assets/c3b7ee06-5455-46f1-8f91-1da5e2c6f263)
 
-![alt text](pmc-ex01,div.png)
 ## Result :
 The ALP on fundamental arithmetic and logical operations is executed successfully.
  
