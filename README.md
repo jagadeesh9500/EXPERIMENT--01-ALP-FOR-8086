@@ -180,7 +180,8 @@ AND ax,bx
 ret
 ```
 ## Output 
-![alt text](<Screenshot 2025-03-11 105623.png>)
+![and](https://github.com/user-attachments/assets/273dc49b-a45f-4141-b34f-0547d2b7d400)
+
 
 ## OR :
 ```
@@ -193,7 +194,8 @@ or ax,bx
 ret
 ```
 ## Output 
-![alt text](<Screenshot 2025-03-11 105835.png>)
+![or](https://github.com/user-attachments/assets/7a97c236-fdbb-4477-bd13-9b8d3725a8ac)
+
 
 ## NOT :
 ```
@@ -205,7 +207,8 @@ NOT ax,bx
 ret
 ```
 ## Output
-![alt text](<Screenshot 2025-03-11 105935.png>)
+![not](https://github.com/user-attachments/assets/0d4f0378-a056-40ff-8f46-3d1850d75231)
+
 
 ## XOR :
 ```
@@ -218,7 +221,8 @@ XOR ax,bx
 ret
 ```
 ## Output 
-![alt text](<Screenshot 2025-03-11 110029.png>)
+![xor](https://github.com/user-attachments/assets/9425d74c-33ab-4021-831d-a978dae434ce)
+
 
 ## Result :
 The ALP on fundamental arithmetic and logical operations is executed successfully.
